@@ -1,4 +1,4 @@
-<h1>Index 
+# Index 
 
 This repository holds the below projects. Currently they're binned in five different categories.
 
